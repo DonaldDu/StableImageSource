@@ -39,5 +39,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     api "com.github.DonaldDu:XIntent:1.7.3"
     api "com.facebook.fresco:fresco:2.6.0"
-    api 'com.yanzhenjie:album:1.0.7.3'//定制版本，不支持拍照
+    api 'com.github.DonaldDu:Album:1.0.7.4'//定制版本，不支持拍照
 }
