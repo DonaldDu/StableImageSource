@@ -1,0 +1,19 @@
+//pluginManagement {
+//    repositories {
+//        privateRepositoryAllInOneDRM(it)
+//        google()
+//        mavenCentral()
+//        gradlePluginPortal()
+//    }
+//}
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//    repositories {
+//        privateRepositoryAllInOneDRM(it)
+//        google()
+//        mavenCentral()
+//    }
+//}
+rootProject.name = "StableImageSource"
+include ':app'
+include ':lib'
