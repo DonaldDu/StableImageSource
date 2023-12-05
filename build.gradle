@@ -27,3 +27,4 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+apply from: "https://gitee.com/DonaldDu/OpenGradleScript/raw/master/mavenPublish.gradle"
